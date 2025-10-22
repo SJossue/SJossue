@@ -1,4 +1,7 @@
-# 💫 About Me:
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jossue%20Sarango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20%7C%20Class%20of%202028%20%7C%20SHPE%20Webmaster&descAlignY=51&descAlign=50" width="100%"/>
+
+💫 About Me:
 I am a current Sophmore studying Mechanical Engineering at NJIT. <br>
 I currently hold the position as SHPE Webmaster for my chapter.<br>
 I am actively working on small projects to hone my coding skills.<br>
@@ -38,5 +41,45 @@ A perfect Sunday for me looks like cars, coffee, and church.
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=The%20most%20powerful%20technologies%20are%20the%20ones%20that%20empower%20others%2E&author=Jensen%20Huang)
 
----
-[![](https://visitcount.itsvg.in/api?id=SJossue&icon=3&color=13)](https://visitcount.itsvg.in)
+<div align="center"> 
+<br/>
+
+### 📊 Profile Analytics
+
+![Profile Views](https://komarev.com/ghpvc/?username=sjossue&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/sjossue?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/sjossue?label=Total%20Stars&style=for-the-badge&color=yellow)
+
+<br/>
+
+### 📫 Reach Out
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://linkedin.com/in/jossue-sarango">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br/>
+<b>Network</b>
+</td>
+<td align="center" width="33%">
+<a href="https://sjossue.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<br/>
+<b>View My Work</b>
+</td>
+<td align="center" width="33%">
+<a href="mailto:jossuesarango1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/>
+<b>Send a Message</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Connect%20With%20Me!%20&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
