@@ -5,7 +5,7 @@
   
 ### 💫 About Me:
 I am a current Sophmore studying Mechanical Engineering at NJIT. <br />
-I currently hold the position as SHPE Webmaster for my chapter. <br />
+I currently hold the position as SHPE VP of Technology for my chapter. <br />
 I am actively working on small projects to hone my coding skills. <br />
 A perfect Sunday for me looks like cars, coffee, and church.
 
