@@ -1,14 +1,14 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jossue%20Sarango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechanical%20Engineer%20%7C%20Class%20of%202028%20%7C%20SHPE%20VP%20of%20Technology&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jossue%20Sarango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MechE%20CS%20%7C%20Class%20of%202028%20%7C%20SHPE%20VP%20of%20Technology&descAlignY=51&descAlign=50" width="100%"/>
 
 <div align="center">
-  
+
 ### 💫 About Me:
 Sophmore MechE and EE at NJIT, self-studying CS. <br />
 SHPE VP of Technology, MLT SWE Fellow. <br />
 Actively working on projects for the love of the game.
 
 <div align="center"> 
+
  
 ## 🌐 Reach Me:
 [![Website](https://img.shields.io/badge/My%20Site-black?style=for-the-badge&logo=zenbrowser&logoColor=fff)](https://jossue.dev)
@@ -42,10 +42,23 @@ Actively working on projects for the love of the game.
 ![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)
 
 <div align="center"> 
+  
+# 📊 GitHub Stats & Activity
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SJossue&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://nirzak-streak-stats.vercel.app/?user=SJossue&theme=codeSTACKr&hide_border=false)<br />
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SJossue&show_icons=true&theme=codeSTACKr&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Jossue's GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SJossue&theme=codeSTACKr&hide_border=true" alt="Jossue's GitHub Streak" />
+</td>
+</tr>
+</table>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SJossue&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SJossue&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center"> 
