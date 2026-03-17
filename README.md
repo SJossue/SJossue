@@ -4,34 +4,42 @@
 <div align="center">
   
 ### 💫 About Me:
-I am a current Sophmore studying Mechanical Engineering at NJIT. <br />
-I currently hold the position as SHPE VP of Technology for my chapter. <br />
-I am actively working on small projects to hone my coding skills. <br />
-A perfect Sunday for me looks like cars, coffee, and church.
+Sophmore MechE and EE at NJIT, self-studying CS. <br />
+SHPE VP of Technology, MLT SWE Fellow. <br />
+Actively working on projects for the love of the game.
 
 <div align="center"> 
  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Jossue-Sarango) 
+## 🌐 Reach Me:
+[![Website](https://img.shields.io/badge/My%20Site-black?style=for-the-badge&logo=zenbrowser&logoColor=fff)](https://jossue.dev)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/Jossue-Sarango) 
+[![X](https://img.shields.io/badge/X-grey?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jossueAI)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossuesarango1@gmail.com) 
 
 <div align="center"> 
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+![Ollama](https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000)
+![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?style=for-the-badge&logo=qwen&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff)
+![Codex](https://custom-icon-badges.demolab.com/badge/Codex-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=fff)
 
 <div align="center"> 
 
@@ -42,49 +50,11 @@ A perfect Sunday for me looks like cars, coffee, and church.
 
 <div align="center"> 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SJossue&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-<div align="center"> 
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=The%20most%20powerful%20technologies%20are%20the%20ones%20that%20empower%20others%2E&author=Jensen%20Huang)
-
-<div align="center"> 
-
 ### 📊 Profile Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sjossue&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/sjossue?label=Followers&style=for-the-badge&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/sjossue?label=Total%20Stars&style=for-the-badge&color=yellow)
 
-<div align="center">
-
-### 📫 Reach Out
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://linkedin.com/in/jossue-sarango">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br />
-<b>Network</b>
-</td>
-<td align="center" width="33%">
-<a href="https://sjossue.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<br />
-<b>View My Work</b>
-</td>
-<td align="center" width="33%">
-<a href="mailto:jossuesarango1@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br />
-<b>Send a Message</b>
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Connect%20With%20Me!%20&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
