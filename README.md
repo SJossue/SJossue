@@ -1,16 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jossue%20Sarango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MechE%20CS%20%7C%20Class%20of%202028%20%7C%20SHPE%20VP%20of%20Technology&descAlignY=51&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jossue%20Sarango&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MechE%20CS%20%7C%20Class%20of%202028%20%7C%20SHPE%20VP%20of%20Tech%20%7C%20MLT%20SWE%20CP28&descAlignY=51&descAlign=50" width="100%"/>
 
 <div align="center">
 
 ### 💫 About Me:
 Sophmore MechE and EE at NJIT, self-studying CS. <br />
-SHPE VP of Technology, MLT SWE Fellow. <br />
 Actively working on projects for the love of the game.
 
 
 <div align="center"> 
 
-## featured projects
+### Featured Projects
 
 ### [DataCool](https://github.com/GurmeherSingh/DataCool)
 > ML system to predict server hotspots and optimizes workload distribution across data center racks   
