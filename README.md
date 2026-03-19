@@ -7,8 +7,22 @@ Sophmore MechE and EE at NJIT, self-studying CS. <br />
 SHPE VP of Technology, MLT SWE Fellow. <br />
 Actively working on projects for the love of the game.
 
+
 <div align="center"> 
 
+## featured projects
+
+### [DataCool](https://github.com/GurmeherSingh/DataCool)
+> ML system to predict server hotspots and optimizes workload distribution across data center racks   
+> `python` `scikit-learn` `three.js` • **🏆 1st overall @ claude hackathon**
+
+### [SHPE App](https://apps.apple.com/us/app/shpe-njit/id6757627370)
+> Handle Event Planning, UGC, Registrations, RSVP's, Social Feed, etc   
+> `Expo` `Supabase` `IOS` `Android` • **Principal Dev / Eng Manager** deployed in *27 days*
+
+### [Forge](https://github.com/YRCV/cmu_tartanhacks26)
+> AI code generation, cloud-based compilation, and OTA firmware updates
+> `React Native` `ESP32` `PlatformIO`
  
 ## 🌐 Reach Me:
 [![Website](https://img.shields.io/badge/My%20Site-black?style=for-the-badge&logo=zenbrowser&logoColor=fff)](https://jossue.dev)
